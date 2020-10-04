@@ -38,7 +38,10 @@ export default {
       },
       mapMarkers: [
         {
-          position: { lat: 38.5619994, lng: 68.796771 },
+          position:  { lat: 38.565707, lng: 68.751594 },
+          icon: fire
+        },{
+          position: { lat: 38.568822, lng: 68.898076  },
           icon: fire
         }
       ]
